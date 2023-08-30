@@ -1,0 +1,15 @@
+h1 {
+    font-size: 150px;
+    color: khaki;
+}
+
+p {
+    text-indent: 100px;
+    text-transform: capitalize;
+    word-spacing: 10px;
+    /* huruf pakai letter-sapcing, kata pakai word-sapcing */
+}
+
+a {
+    text-decoration: none;
+}

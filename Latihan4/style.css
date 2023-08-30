@@ -1,0 +1,12 @@
+body {
+    /* background-color:white;
+    background-image: url(img/floor-tile.png);
+    background-repeat: no-repeat;
+    /* klo pke no-repeat 
+    background-position: bottom center;
+    value bg-position top/center/bottom left/center/right */
+
+    /* shorthand */
+    /* background: white url(img/webb-dark.png) no-repeat top right; */
+    background: url(img/hotel-wallpaper.png) no-repeat top center;
+}
